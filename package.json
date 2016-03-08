@@ -1,0 +1,16 @@
+{
+  "name": "learn-jenkins",
+  "version": "0.1.0",
+  "description": "a test repo for jenkins",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doudou1212/learnJenkins.git"
+  },
+  "license": "sj",
+  "dependencies": {
+    "babel": "^6.1.18"
+  }
+}
